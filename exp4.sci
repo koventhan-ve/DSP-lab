@@ -13,3 +13,4 @@ ylabel('amplitude');
 xlabel('n->');
 title('Output sequence');
 disp('the resultant is',y);
+

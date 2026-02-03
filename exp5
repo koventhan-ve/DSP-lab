@@ -25,3 +25,4 @@ ylabel('amplitude');
 xlabel('n->');
 disp('the resultant signal xz is',y1);
 disp('the resultant signal zx is',y2);
+
